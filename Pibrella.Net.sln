@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pibrella.Net", "Pibrella.Net\Pibrella.Net.csproj", "{301B5BEE-3466-4167-9146-954C0335881F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pibrella.Net.Tests", "Pibrella.Net.Tests\Pibrella.Net.Tests.csproj", "{7F2DB5F9-7F70-4D46-9DBC-640C899E5817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{301B5BEE-3466-4167-9146-954C0335881F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301B5BEE-3466-4167-9146-954C0335881F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301B5BEE-3466-4167-9146-954C0335881F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301B5BEE-3466-4167-9146-954C0335881F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F2DB5F9-7F70-4D46-9DBC-640C899E5817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2DB5F9-7F70-4D46-9DBC-640C899E5817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2DB5F9-7F70-4D46-9DBC-640C899E5817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2DB5F9-7F70-4D46-9DBC-640C899E5817}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
